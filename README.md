@@ -187,6 +187,32 @@ Some of the measures created include:
 
 ### Performance Insights Page
 ![Performance Insights Page md](Images/mobile-dashboard-3.png)
+## 📱 Mobile Dashboard Views
+
+<table>
+<tr>
+<td align="center">
+<b>Key Insights</b><br>
+<img src="Images/mobile-dashboard-1.png" width="180">
+</td>
+
+<td align="center">
+<b>Profit Analysis</b><br>
+<img src="Images/mobile-dashboard-2.png" width="180">
+</td>
+
+<td align="center">
+<b>Performance Insights</b><br>
+<img src="Images/mobile-dashboard-3.png" width="180">
+</td>
+</tr>
+</table>
+
+## Dashboard Demo
+
+Watch a short walkthrough of the interactive Power BI dashboard by clicking the link below.
+
+**[Watch on LinkedIn](https://www.linkedin.com/posts/your-post-link/)**
 
 ---
 
