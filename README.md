@@ -10,22 +10,36 @@ The project follows an end-to-end Business Intelligence workflow, including SQL 
 
 ## Business Problem
 
-The sales team relied on static reports, making it difficult to quickly identify revenue trends and business opportunities.
+A computer hardware company was experiencing declining sales, but the Sales Director lacked a reliable way to monitor business performance across multiple markets.
 
-This analysis answers questions such as:
+The existing reporting process relied on verbal updates from regional managers and numerous Excel spreadsheets, making it difficult to verify sales figures, identify performance trends, and make timely business decisions.
 
-* Which markets generate the highest revenue?
-* Which customers contribute the most sales?
-* Which products perform the best?
-* How does revenue change over time?
-* Which regions require business attention?
-* How can management monitor sales performance through interactive dashboards?
+The key challenges included:
+
+- Inconsistent and manually prepared sales reports from different regions.
+- Sales data scattered across multiple Excel files, making analysis time-consuming.
+- Limited visibility into revenue trends, customer performance, and product sales.
+- Difficulty identifying underperforming markets and growth opportunities.
+- Delayed decision-making due to the lack of a centralized reporting solution.
+
+To address these challenges, an interactive **Power BI Sales Insights Dashboard** was developed to consolidate sales data into a single, easy-to-use reporting platform.
+
+### Business Questions Addressed
+
+The dashboard helps answer key business questions such as:
+
+- Which markets generate the highest revenue?
+- Which customers contribute the most sales?
+- Which products are the top performers?
+- How do revenue and sales quantity change over time?
+- Which markets require immediate business attention?
+- How can interactive dashboards support faster, data-driven decision-making?
 
 ---
 
 ## Dataset
 
-**Source:** Codebasics Sales Insights Project Dataset
+**Source:** **[Codebasics Sales Insights Project Dataset](https://codebasics.io/resources/sales-insights-data-analysis-project?utm_source=youtube&utm_medium=description&utm_campaign=data_analysis&utm_content=JOrhcV3_NAk)**
 
 The dataset includes information about:
 
