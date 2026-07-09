@@ -1,4 +1,4 @@
-# 📊 Sales Insights Data Analysis Project
+# 📊 End-to-End Sales Insights Dashboard using SQL & Power BI
 
 ## Project Overview
 
