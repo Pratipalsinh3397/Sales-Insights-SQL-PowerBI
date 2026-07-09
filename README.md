@@ -143,21 +143,22 @@ Some of the measures created include:
 
 ## Key Insights
 
-* Delhi NCR generated the highest revenue.
-* A small group of customers contributed a significant portion of total sales.
-* Revenue varied considerably across different markets.
-* Certain products consistently outperformed others.
-* Interactive filtering made it easier to analyze sales by year and market.
+* Delhi NCR was the highest revenue-generating market, contributing approximately **₹520M** in sales, followed by Mumbai and Ahmedabad.
+* The company generated approximately **₹985M in revenue** from **2M units sold** during the analysis period.
+* Revenue showed a gradual decline toward 2020, indicating a potential slowdown in sales performance.
+* **Electricalsara Stores** emerged as the top customer, contributing the highest revenue among all customers.
+* Delhi NCR contributed over **50% of total revenue**, making it the company's most important market.
+* Profit margin analysis revealed that while some markets delivered strong profitability, others recorded low or negative profit margins, highlighting opportunities for business improvement.
 
 ---
 
 ## Recommendations
 
-* Focus marketing efforts on high-performing markets.
-* Improve sales strategies in underperforming regions.
-* Strengthen relationships with top customers.
-* Monitor product performance regularly.
-* Use dashboard insights to support business decision-making.
+* Focus on expanding sales in high-performing markets while improving performance in underperforming regions.
+* Investigate the reasons behind declining revenue trends and optimize sales strategies accordingly.
+* Strengthen relationships with high-value customers through targeted retention initiatives.
+* Monitor low-profit markets and review pricing or operational costs to improve profitability.
+* Improve data quality by addressing missing or uncategorized product records.
 
 ---
 
@@ -175,35 +176,23 @@ Some of the measures created include:
 
 ![Performance Insights Page](Images/Performance-Insights.png)
 
-### 📱 Mobile Dashboard
-
-### Key Insights Page
-
-![Key Insights Page md](Images/mobile-dashboard-1.png)
-
-### Profit Analysis Page
-
-![Profit Analysis Page md](Images/mobile-dashboard-2.png)
-
-### Performance Insights Page
-![Performance Insights Page md](Images/mobile-dashboard-3.png)
 ## 📱 Mobile Dashboard Views
 
 <table>
 <tr>
 <td align="center">
 <b>Key Insights</b><br>
-<img src="Images/mobile-dashboard-1.png" width="180">
+<img src="Images/mobile-dashboard-1.png" width="330">
 </td>
 
 <td align="center">
 <b>Profit Analysis</b><br>
-<img src="Images/mobile-dashboard-2.png" width="180">
+<img src="Images/mobile-dashboard-2.png" width="330">
 </td>
 
 <td align="center">
 <b>Performance Insights</b><br>
-<img src="Images/mobile-dashboard-3.png" width="180">
+<img src="Images/mobile-dashboard-3.png" width="330">
 </td>
 </tr>
 </table>
