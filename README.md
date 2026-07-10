@@ -215,7 +215,7 @@ Some of the measures created include:
 
 Watch a short walkthrough of the interactive Power BI dashboard by clicking the link below.
 
-**[Watch on LinkedIn](https://www.linkedin.com/posts/your-post-link/)**
+**[Watch on LinkedIn](https://www.linkedin.com/posts/pratipalsinh-rana_powerbi-sql-dataanalytics-ugcPost-7480983964413968384-J4yv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD0NHmUBNaQVXFaQT5LZnbRi68FC6WRQ1G4)**
 
 ---
 
